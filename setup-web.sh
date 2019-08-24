@@ -4,7 +4,7 @@
 sudo apt install -y git
 sudo apt install -y software-properties-common
 sudo apt install -y unzip
-sudo add-apt-repository ppa:ondrej/php
+sudo add-apt-repository ppa:ondrej/php -y
 sudo apt update && sudo apt upgrade -y
 
 # Instalasi Apache Web Server
